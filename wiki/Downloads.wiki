@@ -1,0 +1,7 @@
+#labels download
+Current downloads:
+
+[https://docs.google.com/file/d/0B3IOTNALi95jQXdZMHJXVFowY28/edit?usp=sharing Cosmo Framework 0.0.1] (preview)
+ * Cosmo Framework Core
+ * Cosmo Sample App
+ * Size: 18.5 Mb
