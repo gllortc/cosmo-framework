@@ -1,6 +1,6 @@
 #sidebar SideIndex
 
-==Controles disponibles==
+=Controles de página=
 
 Los controles implementados actualmente en *Cosmo* son los siguientes:
 
