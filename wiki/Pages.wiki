@@ -1,0 +1,11 @@
+Las páginas de Cosmo se crean agregando controles en las zonas habilitadas. Estas zonas son tres:
+
+ * Lateral izquierda
+ * Central
+ * Lateral derecha
+
+La siguiente ilustración muestra esquemáticamente la forma de crear una página:
+
+https://cosmo-framework.googlecode.com/svn/wiki/images/page_basics.png
+
+Existen multitud de controles de página y el desarrollador puede crear nuevos controles implementando la clase `com.cosmo.ui.controls.Control` cuando los existentes no cubran las necesidades de una funcionalidad concreta. Los controles implementados actualmente en Cosmo son los siguientes:
