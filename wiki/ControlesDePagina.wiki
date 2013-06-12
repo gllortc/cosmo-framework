@@ -1,1 +1,13 @@
 Existen multitud de controles de página y el desarrollador puede crear nuevos controles implementando la clase `com.cosmo.ui.controls.Control` cuando los existentes no cubran las necesidades de una funcionalidad concreta. Los controles implementados actualmente en Cosmo son los siguientes:
+
+||*Control*||*Descripción*||
+||`BreadcrumbsControl`||Implementa un control para presentar la ruta a la página mostrada actualmente (_breadcrumb_ en inglés).||
+||`ButtonBarControl`||Implementa una barra de botones o herramientas.||
+||`DynamicMessageControl`||Implementa un mensaje de advertencia, información o error.||
+||`ErrorMessageControl`||Implementa un mensaje (similar al `DynamicMessageControl`) especializado en mostrar excepciones de Java.||
+||`FormControl`||Implementa un formulario.||
+||`GridControl`||Implementa un grid (o tabla) para presentar datos.||
+||`HeaderControl`||Implementa una cabecera de página y sirve para presentar títulos, descripción, etc.||
+||`ListViewControl`||Implementa una lista de objetos (con soporte para distintos tipos de lista) que permite realizar listas de cualquier tipo de objeto.||
+||`SliderControl`||Implementa una slider (imagen o contenido HTML deslizante).||
+||`XhtmlControl`||Implementa una control para generar contenidos estáticos.||
