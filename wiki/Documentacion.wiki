@@ -3,7 +3,7 @@
 ==Cosmo Framework==
 La gran mayoría de aplicaciones de gestión actuales están desarrolladas sobre plataforma web, básicamente por su facilidad a nivel de sistemas (actualización de software, configuración/parametrización, integración con otros sistemas, etc.).
 
-El desarrollo web usualmente hecha de menos la simplicidad y agilidad en el diseño UI que ofrecían diversas herramientas para el desarrollo _desktop_. Entornos de desarrollo RAD como .NET (VB/C#), Delphi, Java/Swing o similares permiten desarrollar las aplicaciones usando sólo un lenguaje de programación y todo integrado en una sola herramienta. Para muchos desarrolladores usar Java, JavaScript / AJAX, XHTML y CSS,  unas cosas para el servidor y otras para el cliente, hace que para muchos desarrolladores sea tedioso y requiera esfuerzo adicional al diseño _desktop_.
+El desarrollo web usualmente hecha de menos la simplicidad y agilidad en el diseño UI que ofrecían diversas herramientas para el desarrollo _desktop_. Entornos de desarrollo RAD como .NET (VB/C#), Delphi, Java/Swing o similares permiten desarrollar las aplicaciones usando sólo un lenguaje de programación y todo integrado en una sola herramienta. Para muchos desarrolladores usar Java, Javascript / AJAX, XHTML y CSS,  unas cosas para el servidor y otras para el cliente, hace que para muchos desarrolladores sea tedioso y requiera esfuerzo adicional al diseño _desktop_.
 
 De esta situación surgió la idea del desarrollo de *Cosmo Framework*: un framework que permite *crear aplicaciones web usando únicamente Java*, sin perder tiempo y esfuerzo en el GUI web.
 
