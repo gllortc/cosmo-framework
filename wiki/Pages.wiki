@@ -1,6 +1,6 @@
 #sidebar SideIndex
 
-==Páginas==
+=Páginas=
 
 El _interface_ de usuario (UI) se desarrolla mediante páginas (lo que en otras tecnologías o patrones de programación se denomina _View_).
 
