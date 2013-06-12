@@ -8,3 +8,9 @@ El desarrollo web usualmente hecha de menos la simplicidad y agilidad en el dise
 De esta situación surgió la idea del desarrollo de *Cosmo Framework*: un framework que permite *crear aplicaciones web usando únicamente Java*, sin perder tiempo y esfuerzo en el GUI web.
 
 Realmente esta idea no es original pues existen otros frameworks con esa misma premisa (por ejemplo, Google Web Toolkit o GWT) pero *Cosmo Framework* pretende ser simple, rápido y sobretodo compatible con Java.
+
+==Arquitectura==
+
+*Cosmo Framework* tiene la siguiente arquitectura:
+
+https://cosmo-framework.googlecode.com/svn/wiki/images/graph_architect.png
