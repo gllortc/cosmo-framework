@@ -13,4 +13,5 @@ https://cosmo-framework.googlecode.com/svn/wiki/images/page_basics.png
 Cada página dispone de un _Layout_ que mostrará una, dos o las tres zonas, dependiendo de las necesidades concretas.
 
 ===Temas relacionados===
+ * [Layouts Estructuras de página]
  * [ControlesDePagina Controles de página]
