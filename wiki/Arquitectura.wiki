@@ -1,3 +1,5 @@
+#sidebar SideIndex
+
 ==Arquitectura==
 
 *Cosmo Framework* tiene la siguiente arquitectura:
