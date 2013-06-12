@@ -1,3 +1,5 @@
+#sidebar TableOfContents
+
 Los controles implementados actualmente en *Cosmo* son los siguientes:
 
 ||*Control*||*Descripción*||
