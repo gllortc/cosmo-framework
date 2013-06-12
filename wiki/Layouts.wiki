@@ -1,5 +1,7 @@
 #sidebar SideIndex
 
+=Estructuras de página=
+
 Toda página puede disponerse en distintas estructuras. *Cosmo* soporta las siguientes estructuras:
 
 ||Nombre||Descripción||Ejemplo||
