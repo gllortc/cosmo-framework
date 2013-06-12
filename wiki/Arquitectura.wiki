@@ -1,7 +1,0 @@
-#sidebar SideIndex
-
-==Arquitectura==
-
-*Cosmo Framework* tiene la siguiente arquitectura:
-
-https://cosmo-framework.googlecode.com/svn/wiki/images/graph_architect.png
