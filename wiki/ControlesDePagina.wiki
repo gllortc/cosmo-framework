@@ -1,0 +1,1 @@
+Existen multitud de controles de página y el desarrollador puede crear nuevos controles implementando la clase `com.cosmo.ui.controls.Control` cuando los existentes no cubran las necesidades de una funcionalidad concreta. Los controles implementados actualmente en Cosmo son los siguientes:
