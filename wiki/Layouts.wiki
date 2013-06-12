@@ -1,0 +1,3 @@
+Toda página puede disponerse en distintas estructuras. *Cosmo* soporta las siguientes estructuras:
+
+// TODO
