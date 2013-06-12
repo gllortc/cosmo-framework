@@ -1,3 +1,6 @@
 Toda página puede disponerse en distintas estructuras. *Cosmo* soporta las siguientes estructuras:
 
+||Nombre||Descripción||Ejemplo||
+||Home Page||Permite definir una estructura libre para usar como página de inicio.||||
+
 // TODO
