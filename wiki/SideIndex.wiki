@@ -1,5 +1,5 @@
  * [Documentacion Introducción]
- * [Pages Páginas]
+ * [Pages Páginas (UI)]
   * [Layouts Estructuras de página]
   * [ControlesDePagina Controles de página]
   * [PageLifeCycle Ciclo de vida de una página]
