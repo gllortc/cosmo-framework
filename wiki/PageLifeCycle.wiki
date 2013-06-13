@@ -2,7 +2,7 @@
 
 =Ciclo de vida de una página=
 
-Es importante entender el ciclo de vida de las páginas de *Cosmo*. El siguiente diagrama de actividad muestra el ciclo de vida de las páginas:
+El siguiente diagrama de actividad muestra el ciclo de vida de las páginas generadas mediante *Cosmo*:
 
 https://cosmo-framework.googlecode.com/svn/wiki/images/Activity_CosmoPageLiferay.png
 
