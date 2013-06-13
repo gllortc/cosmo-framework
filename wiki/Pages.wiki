@@ -4,7 +4,7 @@
 
 El _interface_ de usuario (UI) se desarrolla mediante páginas (lo que en otras tecnologías o patrones de programación se denomina _View_).
 
-Las páginas de Cosmo se crean agregando *controles* en las zonas habilitadas. Estas zonas son tres:
+Las páginas de Cosmo se crean agregando [ControlesDePagina	 controles] en las zonas habilitadas. Estas zonas son tres:
 
  * Lateral izquierda
  * Central
