@@ -16,5 +16,7 @@ https://cosmo-framework.googlecode.com/svn/wiki/images/page_basics.png
 
 Cada página dispone de un [Layouts estructura de página] que mostrará una, dos o las tres zonas, dependiendo de las necesidades concretas.
 
+Una vez colocados los controles, éstos son parametrizados (por código) con la información concreta que deben mostrar según el contexto.
+
 ==Renderizado==
-Como se ha visto, las páginas se modelan mediante [ControlesDePagina	 controles]. Una vez colocados los controles y parametrizados por código con la información concreta que deben mostrar, *Cosmo* procede a renderizar la página, conviertiendo el modelo y su contenido en código XHTML (HTML 5).
+Una vez modelada y parametrizada la página y sus [ControlesDePagina	 controles], *Cosmo* procede a renderizar la página, conviertiendo el modelo y su contenido en código XHTML (HTML 5).
