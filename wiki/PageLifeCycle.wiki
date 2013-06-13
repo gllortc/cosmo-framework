@@ -6,4 +6,6 @@ El siguiente diagrama de actividad muestra el ciclo de vida de las páginas gene
 
 https://cosmo-framework.googlecode.com/svn/wiki/images/Activity_CosmoPageLiferay.png
 
-En la versión actual
+==Eventos==
+
+Como se aprecia en el diagrama, toda página dispara tres eventos 
