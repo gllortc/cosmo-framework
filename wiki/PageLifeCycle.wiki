@@ -26,6 +26,7 @@ import javax.servlet.http.HttpServletResponse;
 import com.cosmo.ui.Page;
 import com.cosmo.ui.PageContext;
 
+@WebServlet( description = "Sample page", urlPatterns = { "/SamplePage" } )
 public class SamplePage extends Page
 {
 
