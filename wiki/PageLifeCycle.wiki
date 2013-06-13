@@ -1,10 +1,9 @@
+#sidebar SideIndex
+
 =Ciclo de vida de una página=
 
 Es importante entender el ciclo de vida de las páginas de *Cosmo*. El siguiente diagrama de actividad muestra el ciclo de vida de las páginas:
 
-https://code.google.com/
-
-
-
+https://cosmo-framework.googlecode.com/svn/wiki/images/Activity_CosmoPageLiferay.png
 
 En la versión actual
