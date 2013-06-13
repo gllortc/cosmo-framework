@@ -2,4 +2,5 @@
  * [Pages Páginas]
   * [Layouts Estructuras de página]
   * [ControlesDePagina Controles de página]
+  * [PageLifeCycle Ciclo de vida de una página]
  * [Downloads Descargas]
