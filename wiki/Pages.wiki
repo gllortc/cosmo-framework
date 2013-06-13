@@ -19,6 +19,16 @@ Cada página dispone de un [Layouts estructura de página] que mostrará una, do
 Una vez colocados los controles, éstos son parametrizados (por código) con la información concreta que deben mostrar según el contexto de la aplicación.
 
 ==Renderizado==
-Una vez modelada y parametrizada la página y sus [ControlesDePagina	 controles], *Cosmo* procede a renderizar la página, conviertiendo el modelo y su contenido en código XHTML (HTML 5).
+Una vez modelada y parametrizada la página y sus [ControlesDePagina	 controles], *Cosmo* procede a renderizar la página, convirtiendo el modelo y su contenido en código XHTML (HTML 5). *Cosmo* dispone de un _motor de renderizado_ nativo (`com.cosmo.ui.render.impl.CosmoPageRenderImpl`) que usa plantillas para transformar los datos en código XHTML.
 
-*Cosmo* dispone de un _motor de renderizado_ nativo (`com.cosmo.ui.render.impl.CosmoPageRenderImpl`) que usa plantillas para transformar los datos en código XHTML.
+===Plantillas de presentación===
+
+Las plantillas (_templates_) permiten modificar el aspecto de la aplicación completamente y pueden ser aplicadas según determinadas condiciones. 
+
+Por ejemplo, si el _Browser Agent_ del navegador contiene "`Android`" o "`iPhone`" se puede aplicar una plantilla _responsive_ que se adapte a dispositivos móviles. Si no cumple ninguna de estas condiciones iniciales se aplicará otra plantilla específica para dispositivos de pantalla grande.
+
+===Motores de renderizado===
+
+La arquitectura de *Cosmo* permite usar otros motores de renderizado que implementen el interface `com.cosmo.ui.render.PageRenderEngine`.
+
+Por ejemplo, se podría desarrollar un motor de renderizado que en vez de usar las plantillas genere un interface basado en [http://www.sencha.com/products/extjs ExtJS].
