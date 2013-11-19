@@ -15,6 +15,6 @@ Realmente esta idea no es original pues existen otros frameworks con esa misma p
 
 https://cosmo-framework.googlecode.com/svn/wiki/images/graph_architecture.png
 
-||Servicio||Descripción||
+||*Servicio*||*Descripción*||
 ||*UI*||User Interface Services es el servicio encargado de generar las páginas usando exclusivamente Java y de gestionar su ciclo de vida.||
 ||*Security*||Security Services se encarga de dotar a las aplicaciones de autenticación y autorización. Su arquitectura abierta permite conectar con casi cualquier servicio como LDAP, CAS, JAAS, etc. o usar la implementación propia (basada en PostgreSQL).||
