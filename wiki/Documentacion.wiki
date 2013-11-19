@@ -16,7 +16,7 @@ Realmente esta idea no es original pues existen otros frameworks con esa misma p
 https://cosmo-framework.googlecode.com/svn/wiki/images/graph_architecture.png
 
 ||*Servicio*||*Descripción*||
-||*[Pages UI]*||_User Interface Services_ es el servicio encargado de generar las páginas usando exclusivamente Java y de gestionar su ciclo de vida.||
+||*[Pages UI]*||_User Interface Services_ es el servicio encargado de generar las páginas usando exclusivamente Java y de gestionar su ciclo de vida. Deje que las plantillas generen XHTML y Ud. céntrese únicamente en el desarrollo de la aplicación.||
 ||*Security*||_Security Services_ se encarga de dotar a las aplicaciones de autenticación y autorización. Su arquitectura abierta permite conectar con casi cualquier servicio como LDAP, CAS, JAAS, etc. o usar la implementación propia (basada en PostgreSQL).||
 ||*Data*||_Data Services_ ofrece una _interface_ de conexión con cualquier fuente de datos actual de forma transparente. Simplifica drásticamente el uso de múltiples bases de datos en una misma aplicación.||
 ||*Comm*||_Communication Services_ ofrece una _interface_ única para enviar mensajes, ya sea por correo electrónico, SMS, FAX, etc.||
