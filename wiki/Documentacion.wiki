@@ -13,4 +13,4 @@ Realmente esta idea no es original pues existen otros frameworks con esa misma p
 
 *Cosmo Framework* tiene la siguiente arquitectura:
 
-https://cosmo-framework.googlecode.com/svn/wiki/images/graph_architect.png
+https://cosmo-framework.googlecode.com/svn/wiki/images/graph_architecture.png
