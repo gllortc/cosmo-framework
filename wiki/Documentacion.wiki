@@ -7,7 +7,7 @@ El desarrollo web usualmente hecha de menos la simplicidad y agilidad en el dise
 
 De esta situación surgió la idea del desarrollo de *Cosmo Framework*: un framework que permite *crear aplicaciones web usando únicamente Java*, sin perder tiempo y esfuerzo en el GUI web.
 
-Realmente esta idea no es original pues existen otros frameworks con esa misma premisa (por ejemplo, Google Web Toolkit o GWT) pero *Cosmo Framework* pretende ser simple, rápido y sobretodo compatible con Java (se puede compliar con Java).
+Realmente esta idea no es original pues existen otros frameworks con esa misma premisa (por ejemplo, Google Web Toolkit o GWT) pero *Cosmo Framework* pretende ser simple, rápido y sobretodo compatible con Java (se puede compilar con Java).
 
 ==Arquitectura==
 
@@ -17,3 +17,4 @@ https://cosmo-framework.googlecode.com/svn/wiki/images/graph_architecture.png
 
 ||Servicio||Descripción||
 ||*UI*||User Interface Services es el servicio encargado de generar las páginas usando exclusivamente Java y de gestionar su ciclo de vida.||
+||*Security*||Security Services se encarga de dotar a las aplicaciones de autenticación y autorización. Su arquitectura abierta permite conectar con casi cualquier servicio como LDAP, CAS, JAAS, etc. o usar la implementación propia (basada en PostgreSQL).||
